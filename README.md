@@ -2,7 +2,7 @@
 
 ## 🔗 Deploy do Projeto
 Confira a aplicação em execução através do link abaixo:
-👉 [Jogar Batalha Naval](https://victormartinsd.github.io/m1-batalha-naval-template-VictorMartinsD/)
+👉 [Batalha Naval](https://victormartinsd.github.io/m1-batalha-naval-template-VictorMartinsD/)
 
 ## 📸 Preview
 <p align="center">
@@ -37,7 +37,7 @@ A lógica do jogo reside inteiramente no arquivo `script.js`, implementando as s
 
 ## 🔗 Project Deploy
 Check out the application in action at the link below:
-👉 [Play Battleship Game](https://victormartinsd.github.io/m1-batalha-naval-template-VictorMartinsD/)
+👉 [Battleship Game](https://victormartinsd.github.io/m1-batalha-naval-template-VictorMartinsD/)
 
 ## ✨ About the Project
 This project consists of implementing the **core logic** of the classic Battleship game. It was developed as a practical exercise focused on manipulating **two-dimensional arrays (matrices)** in JavaScript.
