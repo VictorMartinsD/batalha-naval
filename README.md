@@ -1,8 +1,8 @@
-# 🚢 M1 - Batalha Naval (Battleship)
+# 🚢 Batalha Naval (Battleship)
 
 ## 🔗 Deploy do Projeto
 Confira a aplicação em execução através do link abaixo:
-👉 [Batalha Naval](https://victormartinsd.github.io/m1-batalha-naval-template-VictorMartinsD/)
+👉 [Batalha Naval](https://victormartinsd.github.io/batalha-naval/)
 
 ## 📸 Preview
 <p align="center">
@@ -28,16 +28,16 @@ A lógica do jogo reside inteiramente no arquivo `script.js`, implementando as s
 * `script.js`: **Arquivo principal** onde as funções de lógica foram implementadas.
 
 ## ⚙️ Como Rodar Localmente
-1. **Clone o Repositório:** `git clone https://github.com/VictorMartinsD/m1-batalha-naval-template-VictorMartinsD.git`
+1. **Clone o Repositório:** `git clone https://github.com/VictorMartinsD/batalha-naval.git`
 2. **Abra o `index.html`:** Abra o arquivo no seu navegador para executar os testes.
 
 ---
 
-# 🚢 M1 - Battleship (English Version)
+# 🚢 Battleship (English Version)
 
 ## 🔗 Project Deploy
 Check out the application in action at the link below:
-👉 [Battleship Game](https://victormartinsd.github.io/m1-batalha-naval-template-VictorMartinsD/)
+👉 [Battleship Game](https://victormartinsd.github.io/batalha-naval/)
 
 ## ✨ About the Project
 This project consists of implementing the **core logic** of the classic Battleship game. It was developed as a practical exercise focused on manipulating **two-dimensional arrays (matrices)** in JavaScript.
@@ -58,5 +58,5 @@ The game logic resides entirely in the `script.js` file, implementing the follow
 * `script.js`: **Main file** where game logic functions were implemented.
 
 ## ⚙️ How to Run Locally
-1. **Clone the Repository:** `git clone https://github.com/VictorMartinsD/m1-batalha-naval-template-VictorMartinsD.git`
+1. **Clone the Repository:** `git clone https://github.com/VictorMartinsD/batalha-naval.git`
 2. **Open `index.html`:** Simply open the file in your browser to run the tests.
